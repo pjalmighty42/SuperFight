@@ -1,0 +1,25 @@
+These are the code samples for this application. 
+
+It was using an off-shoot of using Entities to create objects that would be used in the app. The persistent data was not solely created using a database, but via files and C#'s/.Net's file reader/writer features.  I chose this on purpose to; a) gain experience in file reading/writing, and b) because trying to create a modular database, that could be used by other people, is a bit of a pain. 
+
+In future applications, I will focus more solely on web applications (due to the modularity involved in them). 
+
+Please feel free to look through the code, and give me any feedback (especially likes! :D ). If you would like to collab, or possible job opportunities, hit me up on my LinkedIn account (that is in my Readme file). 
+
+If you want to use this as a base, please let me know and include this:
+
+   Super Fight! Promotion Managing App!
+    Copyright (C) 2017  Paul Laudun
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
